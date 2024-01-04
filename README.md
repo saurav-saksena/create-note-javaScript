@@ -19,4 +19,4 @@ Topics covered during this mini project :-
 - localStorage.getElement
 - setTimeout
 
-### Developer **_Kumar Saurav Saksena_**
+### Developer : **_Kumar Saurav Saksena_**
